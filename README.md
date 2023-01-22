@@ -1,9 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-
 
 ### Welcome to my GitHub Profile!  
 ### <div align="center">I'm Joan, a full-stack developer who is very passionate about programming. I love challenging myself, arriving to solutions and learning new stuff along the way.</div>  
